@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Verifier
+comment1.params=private_key\ public_key
+comment1.target=Verifier(Key,\ Key)
+comment2.params=checker_key
+comment2.target=boolean\ verify(Key)
+numComments=3

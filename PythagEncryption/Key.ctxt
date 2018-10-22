@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=value
+comment1.target=Key(java.lang.String)
+comment2.params=value
+comment2.target=void\ setValue(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getValue()
+numComments=4
