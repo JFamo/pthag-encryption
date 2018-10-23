@@ -10,4 +10,6 @@ comment4.params=
 comment4.target=Key\ getPrivateKey()
 comment5.params=
 comment5.target=Key\ getPublicKey()
-numComments=6
+comment6.params=
+comment6.target=long\ getDecryptValue()
+numComments=7

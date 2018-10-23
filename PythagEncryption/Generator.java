@@ -32,4 +32,9 @@ public class Generator{
     public Key getPublicKey(){
         return public_key;
     }
+    
+    //get third value
+    public long getDecryptValue(){
+        return Math.abs((m * m) - (n * n));
+    }
 }
